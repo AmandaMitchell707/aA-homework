@@ -1,0 +1,30 @@
+.headline {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.buttons {
+  display: block;
+  color: white;
+  background-color: #0baa95;
+  padding: 20px;
+}
+
+.buttons:hover {
+  color: white;
+  background-color: #0a7769;
+}
+
+.hero {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
